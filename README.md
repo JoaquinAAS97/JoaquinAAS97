@@ -17,10 +17,9 @@ const JAAS= {
 ´´´
 
 <!--
-**JoaquinAAS97/JoaquinAAS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ About My Carrer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on BlueLatam as mobile developer
+- Actually I'm studing Software Engineer and Machile Learning
+- 🔭 I’m currently working on BlueLatam as mobile developer 
 - 🌱 I’m currently learning React js and React Native
 -->
