@@ -1,16 +1,26 @@
-### Hi there, I'm Joaquín and  i'm talking about me👋
+### Hi there, I'm Joaquín. Welcome to my profesional profile👋
+
+![imagen](https://user-images.githubusercontent.com/110950511/183809530-c3078ab6-bbb6-467f-94c2-9385933ba36b.png)
+
+
+
+Take at look my Skills  (⌐ ͡■ ͜ʖ ͡■)
+```js
+const JAAS= {
+  pronouns: "he" | "him",
+  code:[Javascript,Tpescript,Html,Css,Java,Python,Kotlin],
+  tools:[React,Node,Insomnia,Postman,Numpy,ReactHooks,Visualestudio,AndroidEstudio,Express],
+  framework:[Ionic,Angular,Capacitor,Cordova,Flask],
+  database:[Oracle,SQLITE,PostgresSQL,MongoDB,Firebase],
+  Skills:[BPMN,canvasModel,SCRUM]
+}
+´´´
 
 <!--
 **JoaquinAAS97/JoaquinAAS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on BlueLatam as mobile developer
+- 🌱 I’m currently learning React js and React Native
 -->
