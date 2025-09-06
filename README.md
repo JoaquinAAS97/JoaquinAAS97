@@ -22,7 +22,7 @@ const JAAS= {
 <!--
  About My Carrer
 
-- Actually I'm Software engenieer
+- Actually I'm Software Engineer 
 -->
 
 
