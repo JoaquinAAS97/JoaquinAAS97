@@ -22,9 +22,7 @@ const JAAS= {
 <!--
  About My Carrer
 
-- Actually I'm studing Software Engineer and Machile Learning
-- 🔭 I’m currently working on BlueLatam as mobile developer 
-- 🌱 I’m currently learning React js and React Native
+- Actually I'm Software engenieer
 -->
 
 
